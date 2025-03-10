@@ -1,7 +1,7 @@
 # site settings
 title: Potapov Denis
 subtitle: Personal
-email: youremailaddress@gmail.com
+email: potapovdenisdmit@gmail.com
 description: A collection of my achievements and personal projects I've worked on so far.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
@@ -11,7 +11,7 @@ city: Nashville
 state: TN
 zip_code: 55555
 country: United States of America
-phone: (716) 555-5555
+phone: +7(909) 004-64-07
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
