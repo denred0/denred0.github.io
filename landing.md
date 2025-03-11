@@ -22,9 +22,9 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/girl_dance.gif %}" alt="" data-position="center center" />
-		</a>
+<!-- 		<a href="generic.html" class="image"> -->
+		<img src="{% link assets/images/girl_dance.gif %}" alt="" data-position="center center" />
+<!-- 		</a> -->
 		<div class="content">
 			<div class="inner">
 				<header class="major">
