@@ -12,10 +12,10 @@ nav-menu: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<header class="major">
+<!-- 		<header class="major">
 			<h2>Sed amet aliquam</h2>
-		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		</header> -->
+		<p>I work on various projects that utilize neural networks. Here are my largest projects related to image and video generation, LLMs, and chatbots, from September 2024 to the present.</p>
 	</div>
 </section>
 
