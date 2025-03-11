@@ -2,7 +2,7 @@
 layout: post
 title: Personal
 description: Key Skills & Achievements 
-image: assets/images/pic11.jpg
+image: assets/images/girl.gif
 nav-menu: true
 ---
 
