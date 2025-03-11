@@ -62,7 +62,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Unity RAG Bot</h3>
 				</header>
-				<p>I created a Slack bot that can answer questions related to Unity development. The bot uses Unity documentation as its primary data source, with the core functionality implemented as a RAG application. The entire infrastructure is deployed in the cloud using AWS Bedrock.</p>
+				<p>The Slack bot that can answer questions related to Unity development. The bot uses Unity documentation as its primary data source, with the core functionality implemented as a RAG application. The entire infrastructure is deployed in the cloud using AWS Bedrock.</p>
 <!-- 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul> -->
@@ -95,6 +95,22 @@ nav-menu: true
 					<h3>Objects Removal</h3>
 				</header>
 				<p>My task was to develop a working solution for object removal from photos. I tested several approaches and selected the most optimal one, capable of handling a wide range of objects and allowing customization. The solution is based on ComfyUI pipeline, utilizing models for image description and generation.</p>
+<!-- 				<ul class="actions">
+					<li><a href="generic.html" class="button">Learn more</a></li>
+				</ul> -->
+			</div>
+		</div>
+	</section>
+	<section>
+<!-- 		<a href="generic.html" class="image"> -->
+		<img src="{% link assets/images/script.jpg %}" alt="" data-position="25% 25%" />
+<!-- 		</a> -->
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Script Breakdown Tool</h3>
+				</header>
+				<p>A tool for script analysis using LLM. The analysis was performed using algorithms based on multiple queries to an LLM (LLM-based agent architecture). I also developed both the frontend and backend using the Django framework. The frontend features asynchronous updates, and PostgreSQL was used for data storage.</p>
 <!-- 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul> -->
