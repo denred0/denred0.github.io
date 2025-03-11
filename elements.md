@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: 
 title: Elements
 image: assets/images/pic01.jpg
 nav-menu: false
