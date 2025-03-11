@@ -117,7 +117,7 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-		<section>
+	<section>
 <!-- 		<a href="generic.html" class="image"> -->
 		<img src="{% link assets/images/cline.jpg %}" alt="" data-position="25% 25%" />
 <!-- 		</a> -->
@@ -127,6 +127,22 @@ nav-menu: true
 					<h3>Cline AI Code Assistant</h3>
 				</header>
 				<p>In search of tools to improve quality and efficiency, I conducted research on the capabilities of the Cline AI assistant for development. As part of this task, I used Cline to solve several problems, including documentation generation, code commenting, and unit test writing. Based on the research findings, I recorded a tutorial video for the company's employees.</p>
+<!-- 				<ul class="actions">
+					<li><a href="generic.html" class="button">Learn more</a></li>
+				</ul> -->
+			</div>
+		</div>
+	</section>
+	<section>
+<!-- 		<a href="generic.html" class="image"> -->
+		<img src="{% link assets/images/rag.jpg %}" alt="" data-position="25% 25%" />
+<!-- 		</a> -->
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>MLC Copilot</h3>
+				</header>
+				<p>As part of the Walle project, I developed a prototype of an AI RAG assistant designed to answer user questions related to neural network models. The assistant consists of two components: one for responding to user queries and another for updating the database. It is built using Microsoft Azure services.</p>
 <!-- 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul> -->
