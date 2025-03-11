@@ -31,9 +31,9 @@ nav-menu: true
 					<h3>Style Transfer And Improving Quality</h3>
 				</header>
 				<p>The goal was to determine whether we could define a generation style and improve the quality of the rough render. I used a ComfyUI workflow with AnimateDiff as the core component responsible for generation.</p>
-				<ul class="actions">
+<!-- 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+				</ul> -->
 			</div>
 		</div>
 	</section>
