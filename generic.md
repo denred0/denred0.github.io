@@ -18,7 +18,7 @@ I have several areas of personal development that strengthen and support me.
 	</dd>
 	<dt>Personal Projects</dt>
 	<dd>
-		<p>I have a personal project—<a href="https://t.me/everyone_ai_channel">a Telegram bot</a> for generating images and avatars. Currently, I'm actively improving my development skills, and this project serves as an excellent platform to experiment with new approaches and ideas, while honing my ability to build good application architecture.</p>
+		<p>I have a personal project—<a href="https://t.me/Everyone_ai_bot">a Telegram bot</a> for generating images and avatars. Currently, I'm actively improving my development skills, and this project serves as an excellent platform to experiment with new approaches and ideas, while honing my ability to build good application architecture.</p>
 	</dd>
 	<dt>English</dt>
 	<dd>
@@ -34,7 +34,7 @@ I have several areas of personal development that strengthen and support me.
 	</dd>
 	<dt>Pumping up programming</dt>
 	<dd>
-		<p>I started actively using ChatGPT for learning, and it pointed out that there’s a lot I don’t know and many areas to develop in programming. I try to find time to study new Python concepts and apply them to my work. To keep the learned information structured, I created <a href="https://t.me/everyone_ai_channel">a Telegram channel</a> https://t.me/pythonshots  where I make notes on the topics I study.</p>
+		<p>I started actively using ChatGPT for learning, and it pointed out that there’s a lot I don’t know and many areas to develop in programming. I try to find time to study new Python concepts and apply them to my work. To keep the learned information structured, I created <a href=" https://t.me/pythonshots">a Telegram channel</a>  where I make notes on the topics I study.</p>
 	</dd>
 	<dt>AI Channels</dt>
 	<dd>
