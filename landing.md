@@ -15,7 +15,7 @@ nav-menu: true
 <!-- 		<header class="major">
 			<h2>Sed amet aliquam</h2>
 		</header> -->
-		<p>I work on various projects that utilize neural networks. Here are my largest projects related to image and video generation, LLMs, and chatbots, from September 2024 to the present.</p>
+		<p>My Since September 2024, my projects have primarily focused on research and testing new technologies and approaches related to neural networks. They feature a diverse tech stack, including image and video generation, LLMs, chatbots, and client-server agent-based applications.</p>
 	</div>
 </section>
 
@@ -38,18 +38,18 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
-		</a>
+<!-- 		<a href="generic.html" class="image"> -->
+		<img src="{% link assets/images/LivePortrait.gif %}" alt="" data-position="top center" />
+<!-- 		</a> -->
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>LivePortrait</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
+				<p>The technology allows for applying facial emotions using a reference video. Unfortunately, this solution does not perform well with complex head positions and sudden movements.</p>
+<!-- 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+				</ul> -->
 			</div>
 		</div>
 	</section>
