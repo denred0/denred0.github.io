@@ -39,7 +39,7 @@ nav-menu: true
 	</section>
 	<section>
 <!-- 		<a href="generic.html" class="image"> -->
-		<img src="{% link assets/images/LivePortrait.gif %}" alt="" data-position="top center" />
+		<img src="{% link assets/images/LivePortrait2.gif %}" alt="" data-position="top center" />
 <!-- 		</a> -->
 		<div class="content">
 			<div class="inner">
