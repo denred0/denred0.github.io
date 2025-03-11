@@ -14,8 +14,8 @@ country: United States of America
 phone: +7(909) 004-64-07
 
 # homepage tiles
-tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 2
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 3
 
 # social settings (key must match name of font awesome icon)
 # see https://fontawesome.com/icons?d=gallery&p=2&s=brands
