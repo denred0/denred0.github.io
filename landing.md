@@ -15,7 +15,7 @@ nav-menu: true
 <!-- 		<header class="major">
 			<h2>Sed amet aliquam</h2>
 		</header> -->
-		<p>Since September 2024, my projects have primarily focused on research and testing new technologies and approaches related to neural networks. They feature a diverse tech stack, including image and video generation, LLMs, chatbots, and client-server agent-based applications.</p>
+		<p>Since September 2024, my projects have primarily focused on research and testing new technologies and approaches related to neural networks. They feature a diverse tech stack, including image and video generation, LLMs, chatbots, and client-server agent-based applications. It works well for short videos.</p>
 	</div>
 </section>
 
