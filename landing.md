@@ -76,9 +76,25 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>3D Characters and assets generation</h3>
+					<h3>3D Characters and Assets Generation</h3>
 				</header>
 				<p>Based on the description and required theme, I generated character and asset images in a consistent style. Using these generated images, I created 3D models of the objects. I documented the entire process of creating such assets, and my work was featured in an article on using neural networks for content creation.</p>
+<!-- 				<ul class="actions">
+					<li><a href="generic.html" class="button">Learn more</a></li>
+				</ul> -->
+			</div>
+		</div>
+	</section>
+	<section>
+<!-- 		<a href="generic.html" class="image"> -->
+		<img src="{% link assets/images/remove.gif %}" alt="" data-position="25% 25%" />
+<!-- 		</a> -->
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Objects Removal</h3>
+				</header>
+				<p>My task was to develop a working solution for object removal from photos. I tested several approaches and selected the most optimal one, capable of handling a wide range of objects and allowing customization. The solution is based on ComfyUI pipeline, utilizing models for image description and generation.</p>
 <!-- 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul> -->
