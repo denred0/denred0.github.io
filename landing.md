@@ -69,19 +69,25 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+	<section>
+<!-- 		<a href="generic.html" class="image"> -->
+		<img src="{% link assets/images/characters_generation.jpg %}" alt="" data-position="25% 25%" />
+<!-- 		</a> -->
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>3D Characters and assets generation</h3>
+				</header>
+				<p>Based on the description and required theme, I generated character and asset images in a consistent style. Using these generated images, I created 3D models of the objects. I documented the entire process of creating such assets, and my work was featured in an article on using neural networks for content creation.</p>
+<!-- 				<ul class="actions">
+					<li><a href="generic.html" class="button">Learn more</a></li>
+				</ul> -->
+			</div>
+		</div>
+	</section>
 </section>
 
 <!-- Three -->
-<section id="three">
-	<div class="inner">
-		<header class="major">
-			<h2>Massa libero</h2>
-		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
-		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
-		</ul>
-	</div>
-</section>
+
 
 </div>
