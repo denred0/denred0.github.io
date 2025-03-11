@@ -26,7 +26,7 @@ I have several areas of personal development that strengthen and support me.
 	</dd>
 	<dt>Touch typing</dt>
 	<dd>
-		<p>I have two English lessons per week with a teacher. Additionally, I've started using ChatGPT Voice Mode as a conversation partner for extra practice.</p>
+		<p>I practice touch typing for 10 minutes every day. I've already reached a good typing speed for English, and recently, I added the Russian keyboard layout to my training to master touch typing speed for both layouts.</p>
 	</dd>
 	<dt>Sport</dt>
 	<dd>
