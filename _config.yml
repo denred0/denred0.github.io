@@ -3,7 +3,7 @@ title: Potapov Denis
 subtitle: Personal
 email: potapovdenisdmit@gmail.com
 description: A collection of my achievements and personal projects I've worked on so far.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
